@@ -1,0 +1,7 @@
+{
+  "name": "algorithms-data-structures",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Итоговая контрольная работа по алгоритмам и структурам данных",
+  "scripts": { "start": "node src/main.js", "test": "node src/main.js" }
+}
